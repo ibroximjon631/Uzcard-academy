@@ -4,8 +4,8 @@
 > Официальный сайт: [academy-avu.pages.dev/syllabus](https://academy-avu.pages.dev/syllabus)
 
 ---
-iii
-## 🎯 Целевая аудиторияi
+
+## 🎯 Целевая аудитория
 
 Программа разработана для:
 - Аналитиков, работающих с Excel и SQL, которые хотят перейти к Python и ML
